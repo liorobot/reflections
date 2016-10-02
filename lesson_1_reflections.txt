@@ -1,0 +1,34 @@
+The fact that you can see the two items and the same time same line
+allows you to compare what they are about. Allows you to see what changed and see the the update was correctly spelled. Because if ti wasn't was the point? right. You will just introduce more and more problems to the system. 
+
+That's the reason why is better not to do it that way
+I paid 70 bucks for this. Fuuuuck. 
+
+
+Having different version of a file (version control) can make you see how you started what was added what changed and see how efficient make the program. It also allows you to backtrack any changed that were not done properly. Its like a start over bottom. 
+
+Like starting over a quiz when you screw up. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Cons - Manual input prone to human errors like forgetting or taking to long. Takes effort
+energy of choosing. 
+Pros - meaningful commits to the discipline and diligent programer. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can use it in the Terminal and you can use it and check which dates was modified and by who and this is very important because you can keep control of things. 
+
+git log 
+
+git diff fist_id second_id
+
+
+How might using version control make you more confident to make changes that could break something?
+
+
+Version control will make me more confident to make changes because I will be able to go back to previous version without all the extra work of erasing files. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+For Version-control! and make really cool long programs!
+
